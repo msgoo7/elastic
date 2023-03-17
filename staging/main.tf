@@ -1,0 +1,3 @@
+module "elasticsearch" {
+  source = "./elasticsearch"
+}
